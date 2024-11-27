@@ -1,6 +1,6 @@
 # FitPeoAutomation
 
-The objective of this project is  to automate the navigation and interaction with web elements using a web automation tool # selenium.
+The objective of this project is  to automate the navigation and interaction with web elements using a web automation tool # selenium and TestNG framework.
 
 # CONDUCTED TASK DETAILS:
 
